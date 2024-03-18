@@ -1,0 +1,18 @@
+.Button {
+    padding: 10px;
+    width: fit-content;
+    border: none;
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f70b17;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+    box-shadow: #050000 0px 1px 5px;
+}
+
+.Button:hover {
+    background-color: #9a8c29;
+    transform: scale(0.9);
+    transition: 0.2s;
+}

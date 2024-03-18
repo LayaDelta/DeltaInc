@@ -1,0 +1,48 @@
+.ColumRigth__Icon {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.ColumRigth__Compact {
+    width: 250px;
+    height: 350px;
+    margin-left: auto;
+    background-color: #050000;
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: center;
+    transition: 1s;
+    
+}
+
+.ColumRigth__Compact:hover {
+overflow-y: scroll;
+overflow-x: hidden;
+}
+
+.ColumRigth__Compact::-webkit-scrollbar {
+    width: 0Px;
+}
+
+.ColumRigth__Content {
+    height: 0px;
+    overflow: hidden;
+}
+
+.ColumRigth_Content:hover {
+    overflow-y: hidden;
+    
+}
+
+.ColumRigth__Button {
+    height: 75px;
+}
+
+.ColumRigth {
+    display: flex;
+    flex-direction: column;
+    background-color: #050000;
+    align-items: end;
+}
