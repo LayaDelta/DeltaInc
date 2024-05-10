@@ -1,0 +1,30 @@
+.ImgTitle__Img {
+    width: 400px;
+    height: 150px;
+    border:solid 3px #da000b;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.ImgTitle {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    border-top: solid 2px #da000b;
+    border-bottom: solid 2px #da000b;
+}
+
+.ImgTitle__Parrafo {
+    margin-bottom: 10px;
+    width: 400px;
+    color: #da000b;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+}
