@@ -6,6 +6,10 @@
     border-radius: 10px;
 }
 
+.ImgTitle__Img:hover {
+    border: solid 3px #008fd1;
+}
+
 .ImgTitle {
     width: 100%;
     height: fit-content;

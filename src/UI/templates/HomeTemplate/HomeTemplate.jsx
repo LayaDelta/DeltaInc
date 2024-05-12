@@ -1,4 +1,3 @@
-import Card from "../../molecules/Card/Card"
 import Footer from "../../molecules/Footer/Footer"
 import ImgTitle from "../../molecules/ImgTitle/ImgTitle"
 import HeaderComp from "../../organims/HeaderComp/HeaderComp"
