@@ -1,0 +1,12 @@
+.ProyecBar {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    border: solid 4px #da000b;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+}

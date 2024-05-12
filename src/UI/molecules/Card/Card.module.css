@@ -1,0 +1,30 @@
+.Card {
+    border: solid 4px #da000b;
+    width: 200px;
+    border-radius: 4px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.Card__Img {
+    border: solid 4px #da000b;
+    width: 150px;
+    height: 150px;
+}
+
+.Card__Img:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+    border: solid 4px #008fd1; 
+}
+
+.Card__Parrafo {
+    font-size: 18px;
+    color: #da000b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
